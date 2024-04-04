@@ -6,7 +6,6 @@ das ist ein Beispiel Text
 ## Listen funktionieren auch 
 - mit bindestrich unordert liste
 - Item 1
-- Item 2
 
 1. Ordert list mit 1. mehr kann die sprche net
 2. Item 3
